@@ -6,7 +6,7 @@
             alt="SHANI BOT" 
             width="720"
             height="420" 
-            src="https://qu.ax/UGCpR.jpg" 
+            src="https://i.ibb.co/FkYDrmxR/shaban-md.jpg" 
             style="border: 4px solid #FF69B4; 
                    border-radius: 20px; 
                    box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
@@ -49,7 +49,7 @@
 ---
 
 
-## 💎 **PRINCE MD FEATURES**
+## 💎 **SHANI MD FEATURES**
 ```diff
 🔹📖 QURAN MENU  
 🔹📥 ALL DOWNLOADER CMDS  
